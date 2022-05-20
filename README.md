@@ -1,3 +1,3 @@
 # idream-inventory-app
 keep track of devices refurbished 
-added GUI
+with GUI
