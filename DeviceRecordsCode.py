@@ -1,6 +1,8 @@
-# author @ Natasha
-# last updated @ October 2021
-# App for IDream device inventory - w/ GUI
+"""
+@author: Natasha
+last updated @ October 2021
+App for IDream device inventory - w/ GUI
+"""
 
 from tkinter import *
 from datetime import datetime
